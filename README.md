@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a sixth year graduate student in astronomy at UC Berkeley, and I'm currently working on projects involving galaxy lensing and scene modeling.
+
 <!--
 **eramey16/eramey16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
